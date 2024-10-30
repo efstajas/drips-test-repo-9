@@ -5,6 +5,9 @@
     },
     "ethereum": {
       "ownedBy": "0xEF4B994f97092fD22B8a880c47F053910788471b"
+    },
+    "filecoin": {
+      "ownedBy": "0x44f59d8C47EF6Fa8fcF477Bfead562268Dc6C8AE"
     }
   }
 }
